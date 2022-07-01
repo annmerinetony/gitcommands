@@ -1,1 +1,4 @@
 git init-for initializing git repo
+git status-get untracked files
+git add -A
+git commit -m "msg"
